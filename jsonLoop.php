@@ -75,6 +75,9 @@ include 'template/header.php';
                     direction : ko.observable(direction)
                 }
             }
+  setInterval(function () {
+      ajaxMethod();
+        },4000);
 </script>
 <?php
 include 'template/footer.php';

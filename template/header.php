@@ -6,7 +6,7 @@
         <title>Knockout JS Binding</title>
         <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
         <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-        <script type='text/javascript' src='knockout-3.4.2.js'></script>
+        <script type='text/javascript' src='http://localhost/knockoutbasic/src/knockout.js'></script>
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <!-- jQuery library -->
